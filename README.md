@@ -1,4 +1,4 @@
-### Hi there 👋 I'm ![Hanmin Kim](https://hanmin.dev/)
+### Hi there 👋 I'm [Hanmin Kim](https://hanmin.dev/)
 * I'm a Computer Science student at the University of Toronto St. George Campus
 * I'm currently Software Engineering Intern at Graycore
 
