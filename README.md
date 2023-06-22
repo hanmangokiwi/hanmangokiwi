@@ -13,3 +13,12 @@
 * ⌨️ ![Mirrorboard](https://github.com/hanmangokiwi/mirrorboard), a one-handed typing solution for improved productivity
 * 🔥 Blastfurnace, a C to .mcfunction transpiler for Minecraft, coming soon...
 * 🗓️ A smart, AI calendar project, coming soon...
+
+💎 Some past, notable projects:
+* 💭 ![Lucid](https://devpost.com/software/lucid-ai-95nerk), text to video generator, Hack the North 2022 Winner
+* 🗣️ ![Pitch.ai](https://devpost.com/software/pitch-ai), speech to slide presentation maker, nwHacks 2022 1st Place
+* 🧠 ![Habifix](https://devpost.com/software/habifix), AI powered habit breaker, Hack the 6ix 2021 3rd Place
+* ⛏️ ![Minecraft Bitcoin Miner](https://www.youtube.com/watch?v=sLClfQdmzPw), created using a custom SHA256 implementation in Minecraft
+* 📈 ![3D Graphing Calculator](https://www.youtube.com/watch?v=qeyp5FN_WKk), available on the Minecraft Realms subscription service
+* 🔳 ![4D Object Renderer](https://youtu.be/ZCv1B4-EwIk?t=7)
+* 👕 ![Cloth Physics Simulator](https://www.youtube.com/watch?v=pNbTXKmgER8)
