@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Hanmin Kim](https://hanmin.dev/)
 * I'm a Computer Science student at the University of Toronto St. George Campus
-* I'm currently Software Engineering Intern at Graycore
+* I was a Software Engineering Intern at Graycore in the summer!
 
 ⚡ Fun facts about me:
 * I can type at 80 WPM using [one hand](https://youtube.com/shorts/L4qHOcTEYSc)
